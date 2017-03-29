@@ -1,4 +1,4 @@
-# Modern-Developer-JavaScript-Style-Guide
+# Bov-Academy-JavaScript-Style-Guide
 
 Or how to write JavaScript (and, by extension, similar programming languages) to make your life easier and other's too.
 
